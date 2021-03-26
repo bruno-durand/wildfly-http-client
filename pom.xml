@@ -64,7 +64,7 @@
         <version.org.jboss.modules>1.10.0.Final</version.org.jboss.modules>
         <version.org.wildfly.client-config>1.0.1.Final</version.org.wildfly.client-config>
         <version.org.wildfly.common>1.5.4.Final</version.org.wildfly.common>
-        <version.org.wildfly.naming.client>1.0.12.Final</version.org.wildfly.naming.client>
+        <version.org.wildfly.naming.client>1.0.14.Final</version.org.wildfly.naming.client>
         <version.org.wildfly.elytron>1.12.1.Final</version.org.wildfly.elytron>
         <version.org.wildfly.transaction.client>1.1.11.Final</version.org.wildfly.transaction.client>
         <version.org.jboss.threads>2.3.3.Final</version.org.jboss.threads>
